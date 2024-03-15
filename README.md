@@ -11,6 +11,7 @@
 
 <h3 align="center">Python zero to hero </h3>
   <p align="center">
+   I ran a few miles so you can fly.
    Welcome to our Python course! This comprehensive course is designed to take you from a beginner level to an advanced level in Python programming. Whether you're completely new to programming or looking to expand your skills, this course has something for everyone.
     <br />
     <a href="https://github.com/daevooh/Python-course"><strong>Explore the docs »</strong></a>
