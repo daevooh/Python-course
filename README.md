@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/daevooh/baby_steps">
+  <a href="https://github.com/daevooh/Python-course">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,10 +13,10 @@
   <p align="center">
    Welcome to our Python course! This comprehensive course is designed to take you from a beginner level to an advanced level in Python programming. Whether you're completely new to programming or looking to expand your skills, this course has something for everyone.
     <br />
-    <a href="https://github.com/daevooh/baby_steps"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/daevooh/Python-course"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/daevooh/baby_steps/issues">Request Feature</a>
+    <a href="https://github.com/daevooh/Python-course/issues">Request Feature</a>
   </p>
 </div>
 
@@ -148,7 +148,7 @@ Follow these steps to clone the Python course repository to your local system:
    Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
 
    ```bash
-   git clone <https://github.com/daevooh/baby_steps.git>
+   git clone <https://github.com/daevooh/Python-course.git>
 3. **Navigate the repo**
     cd baby_steps
    
@@ -184,7 +184,7 @@ Follow these steps to clone the Python course repository to your local system:
 
 Your Name - @ogbekingdavid - email@ogbekingdavid.com
 
-Project Link: https://github.com/daevooh/baby_steps
+Project Link: https://github.com/daevooh/Python-course
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
