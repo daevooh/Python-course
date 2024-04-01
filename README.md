@@ -183,7 +183,7 @@ Follow these steps to clone the Python course repository to your local system:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - @ogbekingdavid - email@ogbekingdavid.com
+ email-ogbekingdavid@gmail.com
 
 Project Link: https://github.com/daevooh/Python-course
 
