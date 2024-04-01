@@ -28,6 +28,17 @@ To reinforce your learning, we've included several beginner-level projects that 
 ## Getting Started
 
 To get started with the beginner level section, simply navigate to the respective subdirectory and follow the instructions provided in each README.md file. We recommend going through the topics sequentially to build a strong foundation in Python programming.
+<!-- ROADMAP -->
+## Begginers sub-topic
+
+- [X] Introduction_To_Python
+    - [X] Overview of Python
+    - [X] Setting up Python environment
+- [ ] Basic_Syntax
+- [ ] Control_Flow
+- [ ] File_Handling
+- [ ] Portfolio project
+
 
 We're excited to have you on this learning journey with us! Let's dive in and start coding!
 
