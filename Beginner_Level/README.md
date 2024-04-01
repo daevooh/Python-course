@@ -35,9 +35,22 @@ To get started with the beginner level section, simply navigate to the respectiv
     - [X] Overview of Python
     - [X] Setting up Python environment
 - [ ] Basic_Syntax
+    - [ ] Variables and data types
+    - [ ] Basic operators
+    - [ ] Strings and string manipulation
+    - [ ] Lists, tuples, and dictionaries
 - [ ] Control_Flow
+    - [ ] Conditional statements (if, elif, else)
+    - [ ] Loops (for, while)
+    - [ ] Control flow exercises
 - [ ] File_Handling
-- [ ] Portfolio project
+    - [ ] Defining functions
+    - [ ] Function arguments and return values
+    - [ ] Working with modules and packages
+- [ ] Portfolio project / Portfolio creation
+    - [ ] **Simple Calculator**
+    - [ ] **To-Do List Application**
+    - [ ] **Basic Web Scraper**
 
 
 We're excited to have you on this learning journey with us! Let's dive in and start coding!
