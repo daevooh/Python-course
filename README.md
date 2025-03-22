@@ -26,6 +26,30 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
+## How to Interact with the Course
+
+To work with this course, follow these steps:
+
+1. **Install Git on Your PC**
+   - Download Git from [https://git-scm.com/](https://git-scm.com/) and follow the installation instructions for your operating system.
+
+2. **Clone the Repository**
+   - Open your terminal or command prompt and run the following command:
+     ```bash
+     git clone https://github.com/daevooh/Python-course.git
+     ```
+
+3. **Pull Recent Updates**
+   - Keep your repository up-to-date by running:
+     ```bash
+     git pull origin main                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+     ```
+
+4. **Submit Assignments**
+   - Push your completed assignments to the repository using:
+     ```bash
+     git push origin main
+     ```
 
 ## Beginner Level
 
