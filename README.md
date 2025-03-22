@@ -35,6 +35,7 @@ To work with this course, follow these steps:
 
 2. **Clone the Repository**
    - Open your terminal or command prompt and run the following command:
+   navigate to desired directory then:
      ```bash
      git clone https://github.com/daevooh/Python-course.git
      ```
