@@ -1,0 +1,34 @@
+Practice Exercises for Variables and Data Types
+1. Numbers
+    Scenario: Calculate the total cost of items bought at a market.
+    Exercise: Create variables for the prices of yam, rice, and beans respective integers [500,2500,1500]
+Task:
+    a. Calculate the total cost
+    b. print the result.
+    c. print the data types 
+    d. Modified print statement to include : string and the variable.
+2. Strings
+    Scenario: Create a welcome message for a Nigerian restaurant.
+    Exercise: Create a string variable for the restaurant name and another for the slogan. 
+    [Mama Nkechi's Kitchen, Taste the love in every bite!]
+Tasks:
+    a. Concatenate them and print the result.
+    b. create a menu and print it as well.
+
+3. Convert String to Integer
+    Scenario: Convert a string representation of a phone number to an integer for validation.
+    Exercise: Create a variable for the phone number as a string and convert it to an integer.
+Task:
+    a. Create print statement before and after the conversion.
+
+4. Convert Float to Integer
+    Scenario: Round down the price of an item to the nearest whole number.
+    Exercise: Create a variable for the price as a float and convert it to an integer.
+Task:
+    a. Create print statement before and after the conversion.
+
+5. Convert Boolean to String
+    Scenario: Display a message based on whether a student passed an exam.
+    Exercise: Convert the Boolean result to a string and include it in the message.
+Task:
+    a. Create print statement before and after the conversion.
