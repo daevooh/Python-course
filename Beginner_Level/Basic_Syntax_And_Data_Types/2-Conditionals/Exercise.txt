@@ -1,0 +1,33 @@
+1. Automating Driver Remittance Checks
+Scenario: You are building a system to track driver remittances. 
+Write a program to check 
+    a. if a driver has met their daily target. 
+    b. If the target is met, print a congratulatory message. 
+    c. If not, calculate and print how much more the driver needs to meet the target.
+
+2. Bonus Eligibility
+Scenario: Drivers can qualify for a bonus if their remittance exceeds a certain threshold and they log enough trips.
+Write a program to check if a driver qualifies for a bonus. 
+    a. If they do, print a congratulatory message. 
+    b. If not, provide feedback on what criteria they failed to meet.
+
+
+3. Categorizing Driver Performance
+Scenario: Drivers are categorized based on their remittance.
+Write a program to classify drivers into one of three categories: 
+    a. "Met Target", "Halfway There", or "Needs Improvement".
+
+
+4. Validating Trip Entries
+Scenario:
+Write a program to check if a trip entry is valid. 
+    A trip is valid if the driver logs both the trip distance and the remittance amount. 
+    a. If either field is missing, print an error message.
+
+
+5. Checking Multiple Conditions
+Scenario:
+Write a program to check if a driver qualifies for a reward. 
+A reward is given if the driver meets the target, logs at least 10 trips, and has no complaints.
+Use logical operators to combine these conditions.
+
