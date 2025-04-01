@@ -1,0 +1,46 @@
+Exercises for Lists
+1. Tracking Daily Remittances
+Scenario: A driver logs their daily remittances for a week. 
+Write a program to:
+    Store the remittance amounts in a list.
+    Calculate the total remittance for the week.
+    Find the highest remittance.
+    Add a new remittance for an extra day.
+
+    
+2. Analyzing Driver Performance
+Scenario: You want to analyze a driver's performance based on their remittances. 
+Write a program to:
+    Create a dictionary to store the driver's name, remittance amounts, and target.
+    Calculate the total remittance and check if the driver met their target.
+    Add a key-value pair for bonus eligibility based on performance.
+
+
+3. Storing Driver Details
+- Scenario: You want to store the details of a driver (name, ID, and location).
+    Write a program to:
+  - Create a tuple to store the driver's details.
+  - Access and print each detail individually.
+
+4. Immutable Driver Records
+- Scenario: You want to ensure the integrity of driver records. 
+    Write a program to:
+  - Create a tuple to store driver details.
+  - Attempt to modify one of the details and observe the result.
+
+
+5. Logging Trip Details
+- Scenario:A driver logs the details of a trip, including their name, trip distance, and remittance amount.
+    Write a program to:
+  - Create a dictionary to store the trip details.
+  - Access and print each detail.
+  - Add a new key-value pair for the trip status.
+
+6. Analyzing Driver Performance
+- Scenario: You want to analyze a driver's performance based on their remittances. 
+    Write a program to:
+  - Create a dictionary to store the driver's name, remittance amounts, and target.
+  - Calculate the total remittance and check if the driver met their target.
+  - Add a key-value pair for bonus eligibility based on performance.
+
+

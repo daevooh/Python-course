@@ -1,0 +1,46 @@
+1. Calculating Total Remittances
+- Scenario: A driver logs their daily remittances for a week. 
+    Write a program to:
+  - Use a `for` loop to calculate the total remittance for the week.
+  - Print the total remittance.
+
+2. Validating Trip Entries
+- Scenario: A driver logs trip entries, but you need to ensure that all entries are valid (e.g., remittance is greater than zero). 
+    Write a program to:
+  - Use a `while` loop to prompt the driver until a valid remittance is provided.
+  - Print the valid remittance.
+
+3. Processing Multiple Drivers' Trips
+- Scenario: You want to log trip entries for multiple drivers. 
+Write a program to:
+  - Use a nested loop to process each driver's trips.
+  - Calculate and print the total remittance for each driver.
+
+
+4. Skipping Invalid Entries
+- Scenario:A driver logs trip entries, but you want to skip invalid entries (e.g., negative remittance) and continue processing the rest. 
+    Write a program to:
+  - Use a `for` loop to iterate over the trip entries.
+  - Skip invalid entries using the `continue` statement.
+  - Print the valid remittance amounts.
+
+5. Stopping at Invalid Entries
+- Scenario:A driver logs trip entries, but you want to stop processing if an invalid entry (e.g., negative remittance) is encountered. 
+    Write a program to:
+  - Use a `for` loop to iterate over the trip entries.
+  - Stop processing using the `break` statement if an invalid entry is found.
+  - Print the remittance amounts processed before the invalid entry.
+
+6. Calculating Average Remittance
+- Scenario:A driver logs their daily remittances for a week. 
+    Write a program to:
+  - Use a `for` loop to calculate the total remittance.
+  - Calculate the average daily remittance.
+  -Print the average remittance.
+
+7. Categorizing Drivers Based on Performance
+- Scenario: You want to categorize drivers based on their remittance performance.
+    Write a program to:
+  - Use a `for` loop to iterate over a list of drivers and their remittances.
+  - Categorize each driver as "Met Target", "Halfway There", or "Needs Improvement".
+  - Print the category for each driver.
