@@ -1,0 +1,27 @@
+# Exercises for Functions and Classes
+
+## 1. Function to Calculate Total Remittance
+- **Scenario**: A driver logs their daily remittances, and you need to calculate the total for the week.
+- **Task**: Write a function `calculate_total_remittance(remittances)` that takes a list of remittances and returns the total.
+
+## 2. Function with Default and Keyword Arguments
+- **Scenario**: You want to greet a driver with optional details like age and location.
+- **Task**: Write a function `greet_driver(name, age=30, location="Unknown")` that prints a greeting message using the provided details.
+
+## 3. Class to Represent a Driver
+- **Scenario**: Manage driver details and log trips.
+- **Task**: Define a class `Driver` with attributes `name`, `id`, and `location`. Include a method `log_trip(distance, remittance)` to log trip details.
+
+## 4. Method to Update Driver Location
+- **Scenario**: A driver changes their location, and you need to update it in the system.
+- **Task**: Add a method `update_location(new_location)` to the `Driver` class to update the driver's location.
+
+## 5. Class to Track Multiple Drivers
+- **Scenario**: Build a system to manage multiple drivers and their trips.
+- **Task**: Define a class `Fleet` with a method `add_driver(driver)` to add a new driver to the fleet and a method `log_trip_for_driver(driver_id, distance, remittance)` to log a trip for a specific driver.
+
+## 6. Function to Analyze Driver Performance
+- **Scenario**: Analyze a driver's performance based on their remittances.
+- **Task**: Write a function `analyze_performance(remittances, target)` that returns whether the driver met their target and if they are eligible for a bonus based on their total remittance.
+
+These exercises are designed to reinforce the concepts of functions and classes, preparing you for the final project where you'll build a system to automate data entry and analyze driver performance. 

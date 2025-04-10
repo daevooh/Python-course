@@ -1,4 +1,4 @@
-# Loops in Python
+ Loops in Python
 
 ## Overview
 Loops are used to automate repetitive tasks in Python. They allow you to iterate over a sequence of items (like lists, tuples, or dictionaries) or repeat a block of code until a condition is met. Loops are essential for tasks like processing multiple trip entries, calculating totals, and analyzing trends.
