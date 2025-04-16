@@ -1,0 +1,31 @@
+# File Handling Exercises for Final Project
+
+## 1. Automating Data Entry
+
+### Scenario:
+Build a system that allows drivers to log trips and remittances digitally via a simple web app or mobile-friendly dashboard.
+
+### Exercise:
+- Create a Python script that reads driver trip data from a text file and stores it in a structured format using Pandas.
+- Write a function to append new trip data to the file whenever a driver logs a trip.
+
+#### Tasks:
+1. Read trip data from 'trips.txt' and load it into a Pandas DataFrame.
+2. Define a function `log_trip(driver_id, distance, remittance)` that appends a new trip entry to 'trips.txt'.
+3. Ensure the function updates the DataFrame with the new trip data.
+
+## 2. Data Analysis & Reporting
+
+### Scenario:
+Track daily, weekly, and monthly remittances.
+
+### Exercise:
+- Use data visualization tools like Matplotlib and Seaborn to generate insights on payment trends.
+
+#### Tasks:
+1. Read remittance data from 'remittances.csv' into a Pandas DataFrame.
+2. Calculate total remittances for daily, weekly, and monthly periods.
+3. Use Matplotlib to plot a line graph showing remittance trends over time.
+4. Use Seaborn to create a bar chart comparing weekly remittances.
+
+These exercises will help you practice file handling and data analysis, preparing you for the final project where you'll automate data entry and generate insightful reports. 
